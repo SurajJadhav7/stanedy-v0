@@ -1,0 +1,11 @@
+li {
+  display: inline;
+}
+
+.columnName {
+  text-transform: capitalize;
+}
+
+div {
+  background-color: aqua;
+}
